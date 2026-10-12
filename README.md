@@ -5,14 +5,14 @@
 ![Project Preview](./preview.png)
 
 ## Overview
-It's a page that shows an academic book inventory designed to meet a freeCodeCamp certification project's requirements. I am a civil engineering student and I put in the inventory the 9 most important books that i read/am going to read in my course. I have rated them based on their quality but also on my experience with the subject at the time. There are currently three versions:
+It's a page that shows an academic book inventory designed to meet a freeCodeCamp certification project's requirements. I am a civil engineering student and I included in the inventory the 9 most important books that i read/am going to read in my course. I have rated them based on their quality and on my experience with the subject at the time. There are currently three versions:
 
 - **[showcase-version-that-passes-tests](showcase-version-that-passes-tests/)**
   My inventory with my opinions, 
   will pass all of freeCodeCamp tests but has less customization potential.
 
 - **[blank-version](blank-version/)**
-  A blank template that you can fill with books and then rate them. Will recquire you to edit the code to do that though.
+  A blank template that you can fill with books and then rate them. Will require you to edit the code to do that though.
 
 - **[blank-imageless-version](blank-imageless-version/)**
   Same as blank version but doesnt have the "book-covers" folder nor the img elements in the html.
