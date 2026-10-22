@@ -5,10 +5,10 @@
 ![Project Preview](./preview.png)
 
 ## Overview
-It's a page that shows an academic book inventory designed to meet a freeCodeCamp certification project's requirements. I am a civil engineering student and I put in the inventory the 9 most important books that i read/am going to read in my course. I have rated them based on their quality but also on my experience with the subject at the time. There are currently three versions:
+It's a page that shows an academic book inventory designed to meet a freeCodeCamp certification project's requirements. I am a civil engineering student and I included in the inventory the 9 most important books that i read/am going to read in my course. I have rated them based on their quality and on my experience with the subject at the time. There are currently three versions:
 
 - **[showcase-version-that-passes-tests](showcase-version-that-passes-tests/)**
-  My inventory with my opinions
+  My inventory with my opinions, 
   will pass all of freeCodeCamp tests but has less customization potential.
 
 - **[blank-version](blank-version/)**
@@ -17,7 +17,7 @@ It's a page that shows an academic book inventory designed to meet a freeCodeCam
 - **[blank-imageless-version](blank-imageless-version/)**
   Same as blank version but doesnt have the "book-covers" folder nor the img elements in the html.
 
-To make this project more interesting, I am planning on making an interactive version in the future that would allow you to rate the books on my list and also set your status on their readings. It would be still be pure css so it wouldn't be able to save progress, thus needing you to take a screenshot or something of the sort to keep track or share with someone.
+To make this project more interesting, I am planning on making an interactive version in the future that would allow you to rate the books on my list and also set your status on their readings. It would still be pure css, so it wouldn't be able to save progress, thus needing you to take a screenshot or something of the sort to keep track or share with someone.
 
 ## freeCodeCamp Modules Covered
 
